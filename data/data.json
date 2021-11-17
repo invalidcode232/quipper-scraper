@@ -1,0 +1,37 @@
+{
+  "universities": [
+    "Universitas Atma Jaya",
+    "Pahoa College Indonesia"
+  ],
+  "fun_facts": [
+    "salah satu sekolah yang prestigius",
+    "universitas yang tua",
+    "sekolah yang terkenal",
+    "sekolah yang memiliki fasilitas yang lengkap",
+    "universitas yang memiliki banyak pengalaman"
+  ],
+  "connectors": {
+    "definition": [
+      "adalah",
+      "merupakan",
+      "ialah"
+    ]
+  },
+  "founding_date": {
+    "min": "1920",
+    "max": "1998"
+  },
+  "rank": {
+    "min": "500",
+    "max": "1500"
+  },
+  "faculties": [
+    "Fakultas Teknik",
+    "Fakultas Bisnis",
+    "Fakultas Psikologi",
+    "Fakultas Informasi Teknologi",
+    "Fakultas Fashion and Design",
+    "Fakultas Kesehatan",
+    "Fakultas Keperawatan"
+  ]
+}
