@@ -1,37 +1,68 @@
 {
   "universities": [
-    "Universitas Atma Jaya",
-    "Pahoa College Indonesia"
-  ],
-  "fun_facts": [
-    "salah satu sekolah yang prestigius",
-    "universitas yang tua",
-    "sekolah yang terkenal",
-    "sekolah yang memiliki fasilitas yang lengkap",
-    "universitas yang memiliki banyak pengalaman"
-  ],
-  "connectors": {
-    "definition": [
-      "adalah",
-      "merupakan",
-      "ialah"
-    ]
-  },
-  "founding_date": {
-    "min": "1920",
-    "max": "1998"
-  },
-  "rank": {
-    "min": "500",
-    "max": "1500"
-  },
-  "faculties": [
-    "Fakultas Teknik",
-    "Fakultas Bisnis",
-    "Fakultas Psikologi",
-    "Fakultas Informasi Teknologi",
-    "Fakultas Fashion and Design",
-    "Fakultas Kesehatan",
-    "Fakultas Keperawatan"
+    {
+      "name": "Universitas Atma Jaya",
+      "quipper": "https://campus.quipper.com/directory/universitas-katolik-indonesia-atma-jaya"
+    },
+    {
+      "name": "Universitas Padjajaran",
+      "quipper": "https://campus.quipper.com/directory/universitas-padjajaran"
+    },
+    {
+      "name": "ITS Institut Teknologi Sepuluh Nopember",
+      "quipper": "https://campus.quipper.com/directory/institut-teknologi-sepuluh-november"
+    },
+    {
+      "name": "KALBIS Institut",
+      "quipper": "https://campus.quipper.com/directory/kalbis-institute"
+    },
+    {
+      "name": "PRADITA UNIVERSITY",
+      "quipper": "https://campus.quipper.com/directory/pradita-institute"
+    },
+    {
+      "name": "STP TRISAKTI",
+      "quipper": "https://campus.quipper.com/directory/sekolah-tinggi-pariwisata-trisakti"
+    },
+    {
+      "name": "Universitas Kristen Krida Wacana (UKRIDA)",
+      "quipper": "https://campus.quipper.com/directory/universitas-kristen-krida-wacana"
+    },
+    {
+      "name": "Universitas Multimedia Nusantara UMN",
+      "quipper": "https://campus.quipper.com/directory/universitas-multimedia-nusantara"
+    },
+    {
+      "name": "Universitas Pembangunan Jaya",
+      "quipper": "https://campus.quipper.com/directory/universitas-pembangunan-jaya"
+    },
+    {
+      "name": "PODOMORO UNIVERSITY",
+      "quipper": "https://campus.quipper.com/directory/universitas-podomoro"
+    },
+    {
+      "name": "Universitas Indonesia",
+      "quipper": "https://campus.quipper.com/directory/universitas-indonesia"
+    },
+    {
+      "name": "Universitas Gajah Mada",
+      "quipper": "https://campus.quipper.com/directory/universitas-gadjah-mada"
+    },
+    {
+      "name": "Universitas Katolik Parahyangan",
+      "quipper": "https://campus.quipper.com/directory/universitas-katolik-parahyangan"
+    },
+    {
+      "name": "UNIVERSTAS KRISTEN PETRA",
+      "quipper": "https://campus.quipper.com/directory/universitas-kristen-petra"
+    },
+    {
+      "name": "Binus ASO",
+      "quipper": "https://campus.quipper.com/directory/binus-aso-school-of-engineering"
+    },
+    {
+      "name": "Binus University",
+      "quipper": "https://campus.quipper.com/directory/binus-university"
+    }
   ]
 }
