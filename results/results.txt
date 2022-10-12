@@ -115,7 +115,23 @@ Fakultas Humaniora dan Bisnis
 Fakultas Teknologi dan Desain
 
 Jalur masuk:
-Tahapan
+● Pendaftaran online melalui website: www.upj.ac.id/pmb
+● Tes seleksi masuk pada:
+Gel 1: September
+Gel 2: November
+Gel 3: Januari
+Gel 4: Maret
+Gel 5: Mei
+Gel 6: Juni
+● Pengumuman pada:
+Gel 1: Oktober
+Gel 2: Desember
+Gel 3: Februari
+Gel 4: April
+Gel 5: Juni
+Gel 6: Juli
+● Pendaftaran ulang pada tanggal: 1-25 Juli
+Menyesuaikan tahapan yang dilakukan oleh Kampus
 
 8. Universitas Katolik Parahyangan
 
@@ -213,7 +229,22 @@ School of Applied STEM (Science, Technology, Engineering, and Mathematics)
 School of Business and Economics
 
 Jalur masuk:
-Tahapan
+Sebelum tes :
+1. Pendaftaran melalui link berikut: https://registertest.prasetiyamulya.ac.id
+2. Jika akun berhasil dibuat, pendaftar akan mendapatkan email aktivasi dan WAJIB melakukan aktivasi akun pendaftarannya maksimal 1 (satu) x 24 jam. Email aktivasi dikirimkan setelah klik “Daftar”
+3. Login dan memilih jurusan. Peserta dapat memilih PILIHAN JURUSAN 1 dan PILIHAN JURUSAN 2 yang diinginkan, kemudian memilih KOTA UJIAN dan LOKASI UJIAN kemudian menekan tombol “SELANJUTNYA”
+4. Jika ada pertanyaan terkait pembayaran silahkan menghubungi Bagian Keuangan di no telp. (021) 30450500 ext. 2136 atau WA di no telp. 0856 811 3457 atau bisa juga melalui email finance.s1@prasetiyamulya.ac.id. Tuliskan NAMA LENGKAP pada kolom subject email ke bagian Finance.
+5. Setelah pembayaran sudah terverifikasi secara otomatis, pendaftar akan mendapatkan username dan password untuk melengkapi berkas pendaftaran di link https://admissions1.prasetiyamulya.ac.id/. Berkas pendaftaran yang perlu diunggah (dalam format .JPG) yaitu :
+a. Foto 3x4 berwarna (foto menggunakan kemeja dan akan digunakan untuk kartu mahasiswa)
+b. Kartu identitas (KTP/Paspor/Kartu Keluarga)
+6. Verifikasi berkas oleh bagian Admission maksimal 2X24 jam (hari kerja) dan kamu akan menerima kartu tes yang dikirim melalui email.
+
+Setelah lulus tes :
+1. Pendaftar yang lulus ujian masuk S1 Universitas Prasetiya Mulya, harus melengkapi dokumen pendaftaran (maksimal 1 (satu) minggu setelah mendapatkan informasi kelulusan) dengan mengunggah (upload) softcopy berkas, sebagai berikut:
+a. Dokumen rapor yang sudah dilegalisir atau berkas asli (hanya bagian yang ada nilainya)
+b. Bagi yang sudah lulus SMA harus melengkapi rapor kelas 12 dan ijazah & SKHUN (untuk berkas ini dapat dikirimkan melalui email ke admission.s1@prasetiyamulya.ac.id)
+c. Khusus untuk yang mendaftar Business Economics, harus menyertakan nilai TOEFL (TOEFL ITP 525(PBT) / 195 (CBT)/ 71 (IBT) atau IELTS di atas 6.0. Apabila tidak memiliki nilai TOEFL, bisa mengikuti tes TOEFL ITP di Learning Center, Universitas Prasetiya Mulya (dengan perjanjian).
+2. Verifikasi berkas oleh bagian Admission paling lambat 3 (tiga) hari kerja, setelah itu surat kelulusan akan dikirimkan melalui email.
 
 14. President University
 
@@ -243,7 +274,13 @@ Fakultas Pendidikan
 Fakultas Bisnis
 
 Jalur masuk:
-Tahapan
+Pendaftaran online melalui website: https://admissions.sampoernauniversity.ac.id/
+Melakukan pembayaran formulir pendaftaran Rp 500,000 ke nomor rekening
+BCA 441 3033 244 an. PT Sekolah Tinggi Sampoerna Internasional
+Tes seleksi masuk tahap 1: Diagnostic Test
+Tes seleksi masuk tahap 2: Basic Test (English) – can be skipped if the students have IELTS >5.5 or TOEFL IBT >61 or TOEFL ITP >550
+Tes seleksi masuk tahap 3: Advanced test (English and Math)
+Interview
 
 16. Universitas Tarumanagara
 
@@ -294,6 +331,14 @@ Fakultas Bisnis &amp; Komunikasi (Faculty of Business &amp; Communication)
 
 Jalur masuk:
 Tahapan
+Melakukan Registrasi Daring
+Pembayaran Biaya Pendaftaran
+Konfirmasi email yang berisi nomor registrasi
+Memasukan dokumen persyaratan
+Tes saringan masuk:
+    Bahasa Inggris
+    Matematika
+    Interview
 
 19. Universitas Bunda Mulia
 
