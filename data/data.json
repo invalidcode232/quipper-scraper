@@ -1,8 +1,84 @@
 {
   "universities": [
     {
-      "name": "University name here",
-      "quipper": "Quipper university info URL here"
+      "name": "Universitas Atma Jaya",
+      "quipper": "https://campus.quipper.com/directory/universitas-katolik-indonesia-atma-jaya"
+    },
+    {
+      "name": "KALBIS Institut",
+      "quipper": "https://campus.quipper.com/directory/kalbis-institute"
+    },
+    {
+      "name": "PRADITA UNIVERSITY",
+      "quipper": "https://campus.quipper.com/directory/pradita-institute"
+    },
+    {
+      "name": "STP TRISAKTI",
+      "quipper": "https://campus.quipper.com/directory/sekolah-tinggi-pariwisata-trisakti"
+    },
+    {
+      "name": "Universitas Kristen Krida Wacana (UKRIDA)",
+      "quipper": "https://campus.quipper.com/directory/universitas-kristen-krida-wacana"
+    },
+    {
+      "name": "Universitas Multimedia Nusantara UMN",
+      "quipper": "https://campus.quipper.com/directory/universitas-multimedia-nusantara"
+    },
+    {
+      "name": "Universitas Pembangunan Jaya",
+      "quipper": "https://campus.quipper.com/directory/universitas-pembangunan-jaya"
+    },
+    {
+      "name": "Universitas Katolik Parahyangan",
+      "quipper": "https://campus.quipper.com/directory/universitas-katolik-parahyangan"
+    },
+    {
+      "name": "Binus University",
+      "quipper": "https://campus.quipper.com/directory/binus-university"
+    },
+    {
+      "name": "Universitas Kristen Maranatha",
+      "quipper": "https://campus.quipper.com/directory/universitas-kristen-maranatha"
+    },
+    {
+      "name": "Multimedia Nusantara Polytechnic",
+      "quipper": "https://campus.quipper.com/directory/universitas-multimedia-nusantara"
+    },
+    {
+      "name": "ESMOD Jakarta Fashion Design and Business quipper",
+      "quipper": "https://campus.quipper.com/directory/esmod-jakarta"
+    },
+    {
+      "name": "Universitas Prasetiya Mulya (prasmul)",
+      "quipper": "https://campus.quipper.com/directory/universitas-prasetiya-mulya"
+    },
+    {
+      "name": "President University",
+      "quipper": "https://campus.quipper.com/directory/president-university"
+    },
+    {
+      "name": "Sampoerna University",
+      "quipper": "https://campus.quipper.com/directory/sampoerna-university"
+    },
+    {
+      "name": "Universitas Tarumanagara",
+      "quipper": "https://campus.quipper.com/directory/universitas-tarumanagara"
+    },
+    {
+      "name": "Politeknik negeri bali",
+      "quipper": "https://campus.quipper.com/directory/politeknik-negeri-bali"
+    },
+    {
+      "name": "Swiss German University",
+      "quipper": "https://campus.quipper.com/directory/swiss-german-university"
+    },
+    {
+      "name": "Universitas Bunda Mulia",
+      "quipper": "https://campus.quipper.com/directory/universitas-bunda-mulia-ubm"
+    },
+    {
+      "name": "MATANA university",
+      "quipper": "https://campus.quipper.com/directory/matana-university"
     }
   ]
 }
